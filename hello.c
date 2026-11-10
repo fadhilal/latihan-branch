@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    // Membuat komentar
+    // mencetak Hello, world!
+
     printf("Hello, world!");
     return 0;
 }
